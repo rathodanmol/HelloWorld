@@ -1,1 +1,0 @@
-text in Any.txt from Git Bash
